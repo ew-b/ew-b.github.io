@@ -1,5 +1,5 @@
-baseURL: "https://ew-b.github.io/ewb-archive/"
-title: Eli's Archive
+baseURL: "https://ew-b.github.io"
+title: Eli's Archive IO
 paginate: 8
 theme: PaperMod
 
