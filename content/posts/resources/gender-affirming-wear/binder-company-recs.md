@@ -30,7 +30,7 @@ cover:
 editPost:
     URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/resources/gender-affirming-wear/binder-company-recs.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 

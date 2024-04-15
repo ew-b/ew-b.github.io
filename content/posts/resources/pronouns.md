@@ -33,7 +33,7 @@ cover:
 editPost:
     URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/resources/pronouns.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 Pronouns are a useful bit of grammar to identify someone other than their name. 
