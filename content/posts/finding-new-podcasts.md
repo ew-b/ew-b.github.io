@@ -31,7 +31,7 @@ cover:
 editPost:
     URL: https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/finding-new-podcasts.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 I am a little biased in my podcast listening, or more I highly prefer small queer made podcasts that might end up becoming popular. It's like fanfic, the creators put so much effort and love for the joy of creating a story. Because podcasts can be simple to make on a low/no budget, it gives a platform to those with barely any money for a microphone that normally would face barriers.
