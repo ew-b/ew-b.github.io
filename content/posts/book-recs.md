@@ -28,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/book-recs/"
+    URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/book-recs.md/"
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
