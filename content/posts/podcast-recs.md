@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Masterlist of podcasts I recommend"
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/podcast-recs/"
+canonicalURL: "https://ew-b.github.io/posts/podcast-recs/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -31,7 +31,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/podcast-recs.md"
+    URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/podcast-recs.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

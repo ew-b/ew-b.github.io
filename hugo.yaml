@@ -99,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ew-b/ewb-archive/content"
+    URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 

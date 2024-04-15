@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A post listing out posts and images I have found throughout the years that suggest other podcasts."
-canonicalURL: "https://ew-b.github.io/ewb-archive/posts/finding-new-podcasts/"
+canonicalURL: "https://ew-b.github.io/posts/finding-new-podcasts/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -29,7 +29,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/posts/finding-new-podcasts.md"
+    URL: https://github.com/ew-b/ew-b.github.io/tree/main/content/posts/finding-new-podcasts.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -82,24 +82,24 @@ Here's the tumblr posts and images I refer back to when I'm looking for somethin
 
 ### [By Boombox-fuckboy - Pride flag podcasts"](https://boombox-fuckboy.tumblr.com/post/706017416911749121/not-my-flags-but-i-couldnt-resist-giving-them-a)
 
-![Agender podcast recommendations](/ewb-archive/boombox-fuckboy-agender-flag.jpg)
+![Agender podcast recommendations](/boombox-fuckboy-agender-flag.jpg)
 
-![Aromantic podcast recommendations](/ewb-archive/boombox-fuckboy-aromantic-flag.jpg)
+![Aromantic podcast recommendations](/boombox-fuckboy-aromantic-flag.jpg)
 
-![Asexual podcast recommendations](/ewb-archive/boombox-fuckboy-asexual-flag.jpg)
+![Asexual podcast recommendations](/boombox-fuckboy-asexual-flag.jpg)
 
-![Lesbian podcast recommendations](/ewb-archive/boombox-fuckboy-lesbian-flag.jpg)
+![Lesbian podcast recommendations](/boombox-fuckboy-lesbian-flag.jpg)
 
-![Trans podcast recommendations](/ewb-archive/boombox-fuckboy-trans-flag.jpg)
+![Trans podcast recommendations](/boombox-fuckboy-trans-flag.jpg)
 
 ## Found in 2019 on Tumblr - Source lost
 I found this in 2019 when I was first getting into podcasts, I have since lost the orginal posts so I take no ownership of these. If you know the source feel free to suggest them.
 
-![Unknown source podcast tree](/ewb-archive/unknown-2019-podcast-tree.jpg)
+![Unknown source podcast tree](/unknown-2019-podcast-tree.jpg)
 
-![Unknown source table ](/ewb-archive/unknown-2019-table.jpg)
+![Unknown source table ](/unknown-2019-table.jpg)
 
-![Unknown source venn diagram](/ewb-archive/unknown-2019-venn-diagram.jpg)
+![Unknown source venn diagram](/unknown-2019-venn-diagram.jpg)
 
-![Unknown source three venn diagram](/ewb-archive/unknown-2019-three-venn-diagram.jpg)
+![Unknown source three venn diagram](/unknown-2019-three-venn-diagram.jpg)
 

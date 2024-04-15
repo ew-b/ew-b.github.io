@@ -10,7 +10,7 @@ draft: true
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://ew-b.github.io/ewb-archive/about/"
+canonicalURL: "https://ew-b.github.io/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -29,7 +29,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/ew-b/ewb-archive/blob/main/content/about/index.md"
+    URL: "https://github.com/ew-b/ew-b.github.io/tree/main/content/about/index.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
