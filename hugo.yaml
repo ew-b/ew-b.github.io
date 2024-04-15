@@ -83,7 +83,7 @@ params:
     - name: github
       url: "https://github.com/ew-b"
     - name: "rss"
-      url: "https://ew-b.github.io/ewb-archive/index.xml"
+      url: "https://ew-b.github.io/index.xml"
     
   analytics:
     google:
